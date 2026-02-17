@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Leseraum Reader
 
 Ein ruhiger, fokussierter Web-Reader für lange Texte.
@@ -57,3 +58,7 @@ Passe diesen Reader auf folgende Quelle an: <URL-zum-Text-oder-PDF>.
 
 - Die aktuelle Datenbasis in `public/data/lxxde_elb_bible_all.json` ist die ursprüngliche Bibel-Fassung.
 - Für neue Inhalte kannst du dieselbe Reader-UI wiederverwenden und nur Daten + Parser austauschen.
+=======
+# Leseraum
+This app is a customizable web reader for any long-form text, providing structured navigation, search, highlighting, and focus features for an improved reading experience.
+>>>>>>> bf21d080df980028018821f8500bb560e1265589
